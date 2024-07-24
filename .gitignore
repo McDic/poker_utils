@@ -1,0 +1,8 @@
+# Environments
+.envrc
+.direnv/
+
+# Build files
+target/
+*.so
+Cargo.lock

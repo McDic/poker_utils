@@ -1,0 +1,11 @@
+[package]
+name = "poker_utils"
+version = "0.0.1"
+edition = "2021"
+
+[lib]
+name = "poker_utils"
+crate-type = ["cdylib"]
+
+[dependencies]
+pyo3 = "0.22.0"
